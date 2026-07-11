@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.5
+matplotlib==3.10.6
+nltk==3.10.0
+requests==2.34.2
